@@ -1,0 +1,22 @@
+<div class="creat_uslugi">
+    <h1>{desc_uslugi}</h1>
+    <form method="post" id='select_cur' class="select-cur" onSubmit="ajaxVs({block:'process',act:'exchanger.creat_demand_widget',p:serialize(this),endComplete:'false',callback:'showFormPay'}); return false;">
+    <div class="select-form">
+
+        <b>Выберите валюту для оплаты:</b>
+
+        <select name="oplata">
+            {item_pay}
+        </select>
+        <input type="hidden" name="controller" value="oplata" readonly="readonly">
+        <input type="hidden" name="object" value="{object}" readonly="readonly">
+
+        <div class="btn">
+            <button class="button_yellow">Выбрать</button>
+        </div>
+		<br>
+		{testing}
+    </div>
+</form>
+    <div id="form_demand"></div>
+</div>

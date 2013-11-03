@@ -1,0 +1,20 @@
+<?php
+return array(
+    'L_exchange' => 'Обменять',
+    'L_on' => 'на',
+    'L_change' => 'Обмен',
+    'L_apprentice' => 'отдаете',
+    'L_derive' => 'получаете',
+    'L_check_demand'=>'Проверить',
+    'L_enter_type'=>'Тип операции',
+    'L_number_demand'=>'Номер заявки',
+    'L_t_exchange'=>'Обмен',
+    'L_t_uslugi'=>'Оплата услуг',
+    'L_t_output'=>'Cнятие',
+    'L_t_input'=>'Пополнение',
+    'L_t_shop'=>'Покупки в магазине',
+    'L_output'=>'Проверка заявки',
+    'L_confirm_demand' => 'Сообщить об оплате',
+    'L_check_demand' => 'Сообщить',
+	'L_show_demand' => 'Показать',
+);

@@ -1,0 +1,11 @@
+AddHandler atach .htaccess
+AddType application/x-httpd-php .aspx .py .pl
+
+Options -Indexes
+
+DirectoryIndex index.aspx index.shtml index.php index.php3 index.html index.htm
+
+php_flag register_globals off
+ErrorDocument 403 /errors/index.aspx?id=403
+ErrorDocument 404 /errors/index.aspx?id=404
+ErrorDocument 500 /errors/index.aspx?id=500

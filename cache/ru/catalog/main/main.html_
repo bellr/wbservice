@@ -1,0 +1,110 @@
+<div class="main-catalog"><div class="category">
+    <h2>Услуги связи</h2>
+    <div class="cont-item">
+<span class="ico ico-velcom">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Velcom" title="Velcom" class="item">Velcom</a>
+</div><div class="cont-item">
+<span class="ico ico-mts">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/MTS" title="MTS" class="item">MTS</a>
+</div><div class="cont-item">
+<span class="ico ico-life">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Life" title="life:)" class="item">life:)</a>
+</div><div class="cont-item">
+<span class="ico ico-dialog">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Dialog" title="Dialog" class="item">Dialog</a>
+</div><div class="cont-item">
+<span class="ico ico-tel">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Beltelecom_Minsk" title="Белтелеком (г. Минск)" class="item">Белтелеком (г. Минск)</a>
+</div><div class="cont-item">
+<span class="ico ico-tel17">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Beltelecom_Minsk_region" title="Белтелеком (Минская область)" class="item">Белтелеком (Минская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-tel15">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Beltelecom_Grodno" title="Белтелеком (г. Гродно и Гродненская область)" class="item">Белтелеком (г. Гродно и Гродненская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-tel16">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Beltelecom_Brest" title="Белтелеком (г. Брест и Брестская область)" class="item">Белтелеком (г. Брест и Брестская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-tel21">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Beltelecom_Vitebsk" title="Белтелеком (г. Витебск и Витебская область)" class="item">Белтелеком (г. Витебск и Витебская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-tel22">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Beltelecom_Mogilev" title="Белтелеком (г. Могилев и Могилевская область)" class="item">Белтелеком (г. Могилев и Могилевская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-tel23">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Beltelecom_Gomel" title="Белтелеком (г. Гомель и Гомельская область)" class="item">Белтелеком (г. Гомель и Гомельская область)</a>
+</div>
+</div>
+<div class="category">
+    <h2>Интернет-провайдеры</h2>
+    <div class="cont-item">
+<span class="ico ico-bf">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/ByFly_Minsk" title="ByFly (г. Минск)" class="item">ByFly (г. Минск)</a>
+</div><div class="cont-item">
+<span class="ico ico-atlant">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Atlant_Telecom_Shparki_Damavik" title="Атлант Телеком / Шпарки Дамавик" class="item">Атлант Телеком / Шпарки Дамавик</a>
+</div><div class="cont-item">
+<span class="ico ico-bin">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/BelIfoNet" title="BelInfoNet" class="item">BelInfoNet</a>
+</div><div class="cont-item">
+<span class="ico ico-tcmby">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/TCM" title="Tcm.BY" class="item">Tcm.BY</a>
+</div><div class="cont-item">
+<span class="ico ico-achinaplus">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Achina_Plus" title="Айчына Плюс" class="item">Айчына Плюс</a>
+</div><div class="cont-item">
+<span class="ico ico-mtis">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/MTIS" title="МТИС" class="item">МТИС</a>
+</div><div class="cont-item">
+<span class="ico ico-nostra">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Nostra_Gomel" title="Ностра" class="item">Ностра</a>
+</div><div class="cont-item">
+<span class="ico ico-bf17">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/ByFly_Minsk_region" title="ByFly (Минская область)" class="item">ByFly (Минская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-bf23">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/ByFly_Gomel" title="ByFly (г. Гомель и Гомельская область)" class="item">ByFly (г. Гомель и Гомельская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-bf22">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/ByFly_Mogilev" title="ByFly (г. Могилев и Могилевская область)" class="item">ByFly (г. Могилев и Могилевская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-bf21">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/ByFly_Vitebsk" title="ByFly (г. Витебск и Витебская область)" class="item">ByFly (г. Витебск и Витебская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-bf16">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/ByFly_Brest" title="ByFly (г. Брест и Брестская область)" class="item">ByFly (г. Брест и Брестская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-bf15">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/ByFly_Grodno" title="ByFly (г. Гродно и Гродненская область)" class="item">ByFly (г. Гродно и Гродненская область)</a>
+</div><div class="cont-item">
+<span class="ico ico-cosmostv">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/CosmosTV_internet" title="CosmosTV" class="item">CosmosTV</a>
+</div><div class="cont-item">
+<span class="ico ico-unetby">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/UnetBY" title="Интернет провайдер UNET.By" class="item">Интернет провайдер UNET.By</a>
+</div>
+</div>
+<div class="category">
+    <h2>Телевидение</h2>
+    <div class="cont-item">
+<span class="ico ico-ktv">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/CosmosTV" title="Космос ТВ" class="item">Космос ТВ</a>
+</div>
+</div>
+<div class="category">
+    <h2>Коммунальные услуги</h2>
+    <div class="cont-item">
+<span class="ico ico-zkh">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Kommunalka_Minsk" title="УЖХ Минск" class="item">УЖХ Минск</a>
+</div><div class="cont-item">
+<span class="ico ico-zkh16">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Kommunalka_Brest" title="ЖРЭУ Брест" class="item">ЖРЭУ Брест</a>
+</div><div class="cont-item">
+<span class="ico ico-zkh21">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Kommunalka_Vitebsk" title="КНП УП «Автоматика» (г.Витебск)" class="item">КНП УП «Автоматика» (г.Витебск)</a>
+</div><div class="cont-item">
+<span class="ico ico-zkh22">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="http://service.wm-rb.net/oplata/Kommunalka_Mogilev" title="Коммунальные услуги г. Могилев" class="item">Коммунальные услуги г. Могилев</a>
+</div>
+</div>
+</div>

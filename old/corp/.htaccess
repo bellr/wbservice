@@ -1,0 +1,8 @@
+AddHandler atach .htaccess
+AddType application/x-httpd-php .aspx .py .pl
+Options -Indexes 
+php_flag register_globals off
+DirectoryIndex index.aspx
+AddDefaultCharset windows-1251
+
+
