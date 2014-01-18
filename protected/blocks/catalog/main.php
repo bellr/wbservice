@@ -1,10 +1,7 @@
 <?
 class main extends Template {
-    function __construct($action_method,$vars='') {
-        $this->$action_method();
-    }
 
-    private function block() {
+    public function block() {
 
         $uslugi = Model::Uslugi();
 
@@ -29,7 +26,7 @@ class main extends Template {
             $item['item'] = '';
         }
 
-        return $this->vars;
+        return $this;
     }
 }
 

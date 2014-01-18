@@ -1,0 +1,52 @@
+<?
+return array(
+	'ByFly_Minsk_region' => array('erip' => 10161, 'account_name' => 'Номер договора', 'type_value' => 'int', 'maxlength' => 13),
+    'ByFly_Gomel' => array('erip' => 10234, 'account_name' => 'Номер договора', 'type_value' => 'int', 'maxlength' => 13),
+    'ByFly_Mogilev' => array('erip' => 10206, 'account_name' => 'Номер договора', 'type_value' => 'int', 'maxlength' => 13),
+    'ByFly_Vitebsk' => array('erip' => 10213, 'account_name' => 'Номер договора', 'type_value' => 'int', 'maxlength' => 13),
+    'ByFly_Brest' => array('erip' => 10142, 'account_name' => 'Номер договора', 'type_value' => 'int', 'maxlength' => 13),
+    'ByFly_Grodno' => array('erip' => 10155, 'account_name' => 'Номер договора', 'type_value' => 'int', 'maxlength' => 13),
+    'ByFly_Minsk' => array('erip' => 14521, 'account_name' => 'Номер договора', 'type_value' => 'int', 'maxlength' => 13),
+    'Velcom' => array('erip' => 'velcom', 'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'MTS' => array('erip' => 'mts', 'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'Life' => array('erip' => 'best', 'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'Dialog' => array('erip' => 'belcel', 'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'Beltelecom_Minsk' => array('erip' => 10111,'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'Beltelecom_Brest' => array('erip' => 10092,'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'Beltelecom_Minsk_region' => array('erip' => 10141,'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'Beltelecom_Grodno' => array('erip' => 10145, 'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'Beltelecom_Vitebsk' => array('erip' => 10193, 'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'Beltelecom_Mogilev' => array('erip' => 10016, 'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'Beltelecom_Gomel' => array('erip' => 10214, 'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+
+    'Atlant_Telecom_Shparki_Damavik' => array('erip' => 'atlant', 'account_name' => 'Лицевой счет', 'type_value' => 'int', 'maxlength' => 16),
+    'BelIfoNet' => array('erip' => 329811, 'account_name' => 'ID', 'type_value' => 'int', 'maxlength' => 6),
+    'Delovaya_set' => array('erip' => 10214, 'account_name' => 'Лицевой счет', 'type_value' => 'string', 'maxlength' => 6),
+    'Solo' => array('erip' => 10214, 'account_name' => 'Номер телефона', 'type_value' => 'int', 'maxlength' => 7),
+    'TCM' => array('erip' => 387741, 'account_name' => 'Логин', 'type_value' => 'string', 'maxlength' => 17),
+    'Achina_Plus' => array('erip' => 13431, 'account_name' => 'Лицевой счет', 'type_value' => 'int', 'maxlength' => 10),
+    'MTIS' => array('erip' => 'mtis', 'account_name' => 'Номер договора', 'type_value' => 'string', 'maxlength' => 10),
+    'Nostra_Gomel' => array('erip' => 'nostra', 'account_name' => 'Номер договора', 'type_value' => 'int', 'maxlength' => 7),
+    'CosmosTV_internet' => array('erip' => 'cosmostv', 'account_name' => 'Номер контракта', 'type_value' => 'int', 'maxlength' => 8),
+    'UnetBY' => array('erip' => 13521, 'account_name' => 'Лицевой счет (логин) ', 'type_value' => 'string', 'maxlength' => 16),
+    'Kommunalka_Minsk' => array('erip' => 10011, 'account_name' => 'Лицевой счет', 'type_value' => 'string', 'maxlength' => 11),
+    'Kommunalka_Brest' => array('erip' => 10032, 'account_name' => 'Лицевой счет', 'type_value' => 'string', 'maxlength' => 8),
+    'Kommunalka_Vitebsk' => array('erip' => 10063, 'account_name' => 'Лицевой счет', 'type_value' => 'string', 'maxlength' => 16),
+    'Kommunalka_Mogilev' => array('erip' => 10026, 'account_name' => 'Лицевой счет', 'type_value' => 'string', 'maxlength' => 10),
+
+    'Delay' => array('precast'=>1, 'detect_func' => 'detectDelay', 'account_name' => 'Номер идентификатора', 'type_value' => 'string', 'maxlength' => 8,
+        'alias' => array(
+            array('name' => 'Delay7', 'erip' => 387881),
+            array('name' => 'Delay8', 'erip' => 'delay8')
+        ),
+    ),
+    'Oplata_kredita_DeltaBanka' => array('erip' => 166701, 'account_name' => 'Номер кредитного договора', 'type_value' => 'int', 'maxlength' => 14),
+    'Oplata_kredita_Trastbanka' => array('erip' => 387731, 'account_name' => 'Номер кредитного договора', 'type_value' => 'int', 'maxlength' => 13),
+    'Oplata_kredita_Moskva_Minsk_Banka' => array('erip' => 389141, 'account_name' => 'Номер кредитного договора', 'type_value' => 'int', 'maxlength' => 18),
+    'Oplata_kredita_Alfa_Banka' => array('erip' => 406391, 'account_name' => 'Номер кредитного договора', 'type_value' => 'int', 'maxlength' => 13),
+    'Popolnenie_scheta_Trastbanka' => array('erip' => 387311, 'account_name' => 'Номер карт-счета', 'type_value' => 'int', 'maxlength' => 14),
+    'Popolnenie_scheta_Idea_Banka' => array('erip' => 405101, 'account_name' => 'Номер счета', 'type_value' => 'int', 'maxlength' => 30),
+    'Oplata_kredita_VTB_bank' => array('erip' => 387321, 'account_name' => 'Платежный номер', 'type_value' => 'int', 'maxlength' => 9),
+
+
+);

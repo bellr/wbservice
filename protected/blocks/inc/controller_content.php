@@ -1,10 +1,7 @@
 <?
 class controller_content extends Template {
-    function __construct($action_method) {
-        $this->$action_method();
-    }
 
-    private function block() {
+    public function block() {
 
         $controller = inputData::init()->controller;
         $left = Config::$processorVars[$controller]['left'];
@@ -35,7 +32,7 @@ class controller_content extends Template {
              $this->vars['content_right'] = $this->iterate_tmpl('inc',__CLASS__,'right',$r);
         }
 
-        return $this->vars;
+        return $this;
     }
 }
 

@@ -1,11 +1,8 @@
 <?
 class adv_left extends Template {
-    function __construct($action_method,$vars='') {
 
-        $this->$action_method();
-    }
+    public function block() {
 
-    private function block() {
 		$banners = array(
 		'banner-200x200-europe',
 			'banner-200x300-rebate',
@@ -16,7 +13,8 @@ class adv_left extends Template {
 
 		$b = rand(0,5);
 		$this->tmplName = $banners[$b];
-        return $this->vars;
+
+        return $this;
     }
 }
 

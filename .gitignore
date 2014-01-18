@@ -1,0 +1,7 @@
+/.idea/
+/static/assets/
+/cache/
+/index.aspx
+
+# except do not ignore .gitignore
+!.gitignore
